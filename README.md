@@ -1,4 +1,4 @@
-# NBT Studio 1.2
+# NBT Studio 1.0
 
 World editor per Minecraft Java con interfaccia a pagine.
 
