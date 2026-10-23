@@ -6,7 +6,7 @@ e senza conoscere i file del gioco.
 
 ## Perché è nato Universal NBT Studio
 
-**Universal NBT Studio** non è nato per essere l'ennesima novità, ma per **semplificare il lavoro**: mettere in un
+**Universal NBT Studio** non è nato per essere l'ennesimo e classico NBT editor, ma a differenza di classici NBT editor questo vuole **semplificare il lavoro**: mettere in un
 solo programma tutto quello che di solito è sparso tra decine di siti e generatori online (come mc-tools e
 simili), e farlo funzionare **sul tuo PC**.
 
