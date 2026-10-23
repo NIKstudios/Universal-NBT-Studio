@@ -149,7 +149,7 @@ All'avvio NBT Studio controlla se c'è una nuova versione. Se c'è, ti chiede se
 si sostituisce e si riapre da solo. Puoi spegnere il controllo, o farlo quando vuoi, in **Impostazioni >
 Aggiornamenti**.
 
-## Domande frequenti
+## Possibili domande frequenti
 **Le texture e i nomi degli oggetti non si vedono.**
 NBT Studio prende texture e nomi dal Minecraft installato sul tuo PC (non contiene file di Mojang). Apri almeno
 una volta nel launcher la versione a cui giochi; in Impostazioni puoi scegliere quale versione usare.
