@@ -1,8 +1,21 @@
-# NBT Studio
+# Universal NBT Studio 1.0
 
 **Il modo più semplice per modificare i tuoi mondi di Minecraft Java.**
 Giocatori, oggetti, mob, mappe, costruzioni, comandi e resource pack: tutto con i pulsanti, senza scrivere comandi
 e senza conoscere i file del gioco.
+
+## Perché è nato Universal NBT Studio
+
+**Universal NBT Studio** non è nato per essere l'ennesima novità, ma per **semplificare il lavoro**: mettere in un
+solo programma tutto quello che di solito è sparso tra decine di siti e generatori online (come mc-tools e
+simili), e farlo funzionare **sul tuo PC**.
+
+Niente siti da aprire, niente file da caricare su server di altri, niente attese: i tuoi mondi, le tue skin, la
+tua musica e le tue immagini restano tuoi, sul tuo computer. Internet serve solo per le cose che non si possono
+fare altrimenti, come scaricare le skin dei giocatori e controllare se c'è un aggiornamento.
+
+Per ora il codice non è open source, ma lo diventerà quando il progetto avrà raggiunto una buona fase di
+sviluppo.
 
 > Funziona su **Windows**, con i mondi di **Minecraft Java Edition** dalla 1.8 alla 26.x.
 > Non serve installare nulla: scarichi `NBTStudio.exe` e lo apri.
