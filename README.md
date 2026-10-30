@@ -22,6 +22,7 @@ Per ora il codice non è open source, ma lo diventerà quando il progetto avrà 
 ---
 
 ## Indice
+- [Novità della versione 1.0.4](#novità-della-versione-104)
 - [Novità della versione 1.0.3](#novità-della-versione-103)
 - [Novità della versione 1.0.2](#novità-della-versione-102)
 - [Scaricare e aprire](#scaricare-e-aprire)
@@ -33,6 +34,16 @@ Per ora il codice non è open source, ma lo diventerà quando il progetto avrà 
 - [Aggiornamenti](#aggiornamenti)
 - [Domande frequenti](#domande-frequenti)
 - [Contatti e crediti](#contatti-e-crediti)
+
+---
+
+## Novità della versione 1.0.4
+- **Mappe nell'inventario, senza trucchi**: nell'editor delle mappe selezioni una o più mappe e le metti
+  nell'inventario del giocatore con un pulsante, senza /give. Funziona anche nei mondi senza trucchi.
+- **Mappe nuove già in tasca**: le mappe create da un'immagine finiscono subito nell'inventario (si può togliere).
+- **Mappe che il giocatore ha già**: sono segnate con una spunta e si possono vedere da sole, anche quelle dentro
+  shulker e sacche. Cambi l'immagine e il giocatore trova quella nuova.
+- **Sito web**: tra i link di NIKstudios sotto il menu laterale ora c'è il pulsante del sito.
 
 ---
 
