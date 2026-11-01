@@ -22,6 +22,7 @@ Per ora il codice non è open source, ma lo diventerà quando il progetto avrà 
 ---
 
 ## Indice
+- [Novità della versione 1.0.5 (Beta finale)](#novità-della-versione-105-beta-finale)
 - [Novità della versione 1.0.4](#novità-della-versione-104)
 - [Novità della versione 1.0.3](#novità-della-versione-103)
 - [Novità della versione 1.0.2](#novità-della-versione-102)
@@ -34,6 +35,23 @@ Per ora il codice non è open source, ma lo diventerà quando il progetto avrà 
 - [Aggiornamenti](#aggiornamenti)
 - [Domande frequenti](#domande-frequenti)
 - [Contatti e crediti](#contatti-e-crediti)
+
+---
+
+## Novità della versione 1.0.5 (Beta finale)
+- **Conversione Java ↔ Bedrock**: blocchi, biomi, contenitori con gli oggetti, mob, abitanti con i loro scambi, meccanismi redstone e tick in sospeso, con un report di cosa resta fuori. Arrivi dove stava il giocatore e scegli modalità, trucchi e difficoltà.
+- **Villaggi**: tutte le case che vuoi, della grandezza che vuoi, in 10 stili, con strade, fattorie, chiesa e villici
+  veri. E cose pazze: case volanti, sottosopra, fungo, arcobaleno e giganti.
+- **Castelli e torri**: mura, mastio, fossato, ponte e bandiere in 8 stili, torri singole e del mago, anche in rovina,
+  sospesi o sottosopra.
+- **Copia e incolla 3D**: un'area girata, specchiata o sottosopra, con bauli e mob, dove vuoi, anche in un altro mondo.
+- **Trova e sostituisci con anteprima 3D**: nei chunk selezionati o in un file schematica.
+- **Cronologia delle modifiche**: una pagina con tutto quello che hai fatto a un mondo, dove puoi annullare una
+  costruzione qualsiasi, non solo l'ultima.
+- **Confronta due backup sulla mappa**: i chunk nuovi, spariti e cambiati sono colorati.
+- **Pagina Server**: impostazioni, whitelist, operatori e ban di un server, senza comandi.
+- **Isole volanti**: niente più erba, fiori e alberi sospesi nel vuoto. Le caverne potevano arrivare fino in
+  superficie e togliere il terreno sotto di loro.
 
 ---
 
