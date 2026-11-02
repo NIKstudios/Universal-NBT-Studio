@@ -22,6 +22,7 @@ Per ora il codice non è open source, ma lo diventerà quando il progetto avrà 
 ---
 
 ## Indice
+- [Novità della versione 1.0.6](#novità-della-versione-106)
 - [Novità della versione 1.0.5 (Beta finale)](#novità-della-versione-105-beta-finale)
 - [Novità della versione 1.0.4](#novità-della-versione-104)
 - [Novità della versione 1.0.3](#novità-della-versione-103)
@@ -37,6 +38,16 @@ Per ora il codice non è open source, ma lo diventerà quando il progetto avrà 
 - [Contatti e crediti](#contatti-e-crediti)
 
 ---
+
+## Novità della versione 1.0.6
+
+- **Conversione**: il programma riconosce da solo le cartelle di Java (tutti i launcher) e di Bedrock (tutti gli account)
+  e con la lista **Salva in** scegli dove va il nuovo mondo. Un mondo Bedrock può finire direttamente tra i tuoi mondi,
+  senza importarlo, e un mondo convertito non sostituisce mai uno già esistente. La scelta del mondo ora mostra immagine,
+  provenienza, modalità e data, con la ricerca.
+- **Bedrock → Java**: recinzioni, vetri, redstone, scale, porte e neve sull'erba vengono ricostruiti come in Java.
+- **Mondi 26.3**: i blocchi con proprietà ora si leggono bene in conversione, mappa, vista 3D ed editor.
+- **Mondi del Marketplace**: sono protetti e non si possono convertire; il programma lo dice invece di creare un mondo rotto.
 
 ## Novità della versione 1.0.5 (Beta finale)
 - **Conversione Java ↔ Bedrock**: blocchi, biomi, contenitori con gli oggetti, mob, abitanti con i loro scambi, meccanismi redstone e tick in sospeso, con un report di cosa resta fuori. Arrivi dove stava il giocatore e scegli modalità, trucchi e difficoltà.
