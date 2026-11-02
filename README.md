@@ -22,6 +22,7 @@ Per ora il codice non è open source, ma lo diventerà quando il progetto avrà 
 ---
 
 ## Indice
+- [Novità della versione 1.0.7](#novità-della-versione-107)
 - [Novità della versione 1.0.6](#novità-della-versione-106)
 - [Novità della versione 1.0.5 (Beta finale)](#novità-della-versione-105-beta-finale)
 - [Novità della versione 1.0.4](#novità-della-versione-104)
@@ -38,6 +39,31 @@ Per ora il codice non è open source, ma lo diventerà quando il progetto avrà 
 - [Contatti e crediti](#contatti-e-crediti)
 
 ---
+
+## Novità della versione 1.0.7
+
+- **Metti nell'inventario**: pozioni, fuochi d'artificio, teste e gli altri oggetti dei generatori finiscono direttamente
+  nell'inventario di un giocatore, senza /give. Nell'editor dell'inventario l'oggetto nuovo si illumina per qualche
+  secondo, con il colore del tema. Anche per le mappe.
+- **Editor oggetti**: scheda Pozione (base, colore, effetti in più) e scheda Altro (rarità, quantità per slot, resistenza
+  al fuoco, descrizione nascosta, custom model data).
+- **Supporti per armature, cornici e quadri** come oggetti tengono i loro dati (posa, armatura, oggetto nella cornice...)
+  e quando li piazzi escono così.
+- **Poteri del giocatore** rifatti: preset in schede con cosa fanno (anche Costruttore, Minatore, Sub, Ninja e
+  Guerriero), i tuoi preset salvati con un nome, i poteri divisi in gruppi e quelli cambiati in evidenza.
+- **Conversione con il giocatore**: insieme al mondo passano anche inventario, armatura, mano secondaria, cassa
+  dell'End, livello, vita, fame e posizione. Verso Java vanno all'account Java di questo computer.
+- **Scelta dei blocchi con ricerca**: in generatori e strumenti la lista dei blocchi ha una barra di ricerca e
+  tutti i blocchi del gioco. Trova per nome italiano o inglese, per id o con parole di tutti i giorni (cemento, legno,
+  scale...). L'icona ora segue il blocco scritto a mano.
+- **Alberi e foreste rifatti**: 23 alberi con rami, tronchi 2x2, liane, cacao, nidi d'api e muschio pendente
+  (anche salice, palma, albero millenario, funghi giganti, funghi del Nether, alberi luminosi e di cristallo), 15
+  foreste come i biomi, erba, fiori, tronchi caduti e il terreno giusto sotto gli alberi.
+- **Villaggi**: le strade non si spezzano più sopra il vuoto o sul terreno irregolare.
+- **Attività di Discord**: due pulsanti per scaricare NBT Studio ed entrare nel server Discord.
+- **Mappe in gioco**: col tasto destro elimini le mappe, anche più insieme. I file finiscono in una cartella del
+  programma, così si possono rimettere.
+- **Elimina tutte quelle mostrate** spiega perché alcune entità restano e permette di eliminarle lo stesso.
 
 ## Novità della versione 1.0.6
 
